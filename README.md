@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm @hason, an Open Source enthusiast and the Chief Technology Lead at @cognitocz, where I do most of my development.
+
 <!--
 **hason/hason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
