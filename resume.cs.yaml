@@ -1,0 +1,327 @@
+$schema: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+meta:
+  canonical: https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json
+  version: 1.0.0
+
+basics:
+  name: Mgr. Martin Hasoň
+  email: martin.hason@gmail.com
+  phone: +420 776 641 645
+  website: https://www.martinhason.cz
+  label: Vývojář
+
+  image: hason-head.png
+
+  summary: >
+    Věnuji se převážně vývoji rozsáhlejších webových aplikací.
+    Aktivně přispívám do Open Source projektů (Symfony, Twig, CommonMark) a udržuji několik vlastních knihoven.
+
+  location:
+    address: Sivice 345
+    postalCode: 664 07
+    city: Sivice
+    countryCode: CZ
+    region: Morava
+
+  profiles:
+    - network: Twitter
+      username: hasonm
+      url: https://twitter.com/hasonm
+    - network: GitHub
+      username: hason
+      url: https://github.com/hason
+    - network: LinkedIn
+      username: martinhason
+      url: https://www.linkedin.com/in/martinhason
+
+education:
+  - institution: Masarykova univerzita
+    location: Brno
+    area: Fyzika plazmatu
+    studyType: Magisterský
+    startDate: '2008'
+    endDate: '2010'
+
+  - institution: Masarykova univerzita v Brně
+    location: Brno
+    studyType: Bakalářský
+    area: Fyzika
+    startDate: '2003'
+    endDate: '2008'
+
+work:
+  - name: Survio s.r.o
+    url: https://www.survio.com
+    location: Brno
+    position: Software architekt
+    summary: Vývoj SaaS aplikace Survio
+    startDate: 2021-01
+    highlights:
+      - Návrh architektury multiuživatelské aplikace
+      - Vývoj aplikace (PHP, Symfony, React)
+      - DevOps (Docker, Kubernetes)
+  
+  - name: Cognito.cz s.r.o
+    url: https://www.cognito.cz
+    location: Brno
+    position: Full Stack hlavní vývojář
+    summary: Vývoj SaaS aplikací
+    startDate: 2019-01
+    endDate: 2020-12
+    highlights:
+      - Návrh architektury multiuživatelských aplikací
+      - Kompletní vývoj aplikací (PHP, Symfony, Vue, Nuxt)
+      - DevOps
+
+  - name: Webuni s.r.o.
+    url: https://www.webuni.cz
+    position: Školitel
+    summary: Školení tvorby webových aplikací
+    startDate: 2014-06
+    highlights:
+      - Školení PHP a Symfony
+      - Školení Docker
+      - Školení TypeScript
+
+  - name: Cognito.cz s.r.o.
+    url: https://www.cognito.cz
+    location: Brno
+    position: Senior vývojář
+    summary: 
+    highlights:
+      - Vytvoření základu pro nové aplikace postavené na PHP frameworku Symfony
+      - Tvorba nové generace publikačního systému Winston
+      - Dockerizace lokálního prostředí
+      - Nasazení Docker Swarm pro produkční aplikace
+    startDate: 2014-06
+    endDate: 2019-01
+
+  - name: Gauss Algoritmic s.r.o.
+    url: https://www.gaussalgo.com
+    location: Brno
+    position: Python, PHP a JS programátor
+    highlights:
+      - Nástroj pro import xml feedů (Python, SQLAlchemy, Flask, Django)
+      - Trackovací scripty (TypeScript)
+      - Dockerizace služeb
+    startDate: 2014-06
+    endDate: 2019-04
+
+  - name: IT STUDIO s.r.o.
+    url: https://www.itstudio.cz
+    location: Brno
+    position: PHP programátor a vedoucí vývoje nové generace aplikací
+    summary: >
+      Vývoj nové generace e-commerce řešení EasyShop, publikačního systému WebGet 2
+      a systému pro emailový marketing Centralnews
+    highlights:
+      - Přechod na git
+      - Prosazení změny platformy ze Zend Framework 2 na framework Symfony 2
+      - Vedoucí vývoje
+    startDate: 2010-06
+    endDate: 2014-06
+
+  - name: Web71
+    url: https://www.web71.cz
+    position: PHP a JS programátor
+    summary: Zakázkový vývoj v PHP a Javascriptu
+    location: Prostějov
+    startDate: 2005-06
+    endDate: 2007-12
+
+skills:
+  - name: Vývoj webových aplikací
+    level: expert
+    keywords:
+      - PHP
+      - TypeScript
+      - JavaScript
+      - Symfony
+      - Vue
+      - Nuxt
+      - Git
+
+  - name: Programování
+    level: pokročilý
+    keywords:
+      - Python
+      - Shell
+      - Lua
+      - OOP
+      - BDD
+
+  - name: Databáze
+    level: středně pokročilý
+    keywords:
+      - PostgreSQL
+      - MariaDB
+      - SQL CTE
+
+  - name: DevOps a CI
+    level: středně pokročilý
+    keywords:
+      - Docker
+      - Swarm
+      - Linux
+      - Gitlab CI
+      - GitHub Actions
+
+  - name: Sazba, DTP
+    level: středně pokročilý
+    keywords:
+      - TeX, ConTeXt
+      - Pandoc
+      - Lua
+      - Inkscape
+      - GIMP
+
+projects:
+  - name: TagPicker
+    type: aplikace
+    entity: Cognito.cz s.r.o.
+    url: https://www.tagpicker.com
+    description: >
+      Online služba, která umožňuje označit body nebo oblastni na libovolném obrázku
+      na internetu a přiřadit k nim popup s informacemi, videem nebo přímo nákupním košíkem.
+    highlights:
+       - SaaS aplikace
+       - Postgres, Command Bus
+       - REST a GraphQL API
+       - Nuxt frontend
+       - Realizace informačních popupů pomocí čistého CSS
+       - Progressive Enhancement JavaScript
+    startDate: 2019-07
+    roles:
+      - Vedoucí vývoje
+      - Full-stack vývojář
+    keywords:
+      - PHP
+      - Symfony
+      - Typescript
+      - Nuxt
+      - Postgres
+      - Docker
+      - Docker Swarm
+
+  - name: Pincity
+    type: aplikace
+    entity: Cognito.cz s.r.o.
+    url: https://www.pincity.cz
+    description: >
+      Komplexní nástroj pro vizuálně atraktivní a interaktivní prezentaci vizí rozvoje měst.
+    highlights:
+      - SaaS aplikace
+      - Multiúčtový systém
+    roles:
+      - Návrh architektury
+      - PHP, Symfony backend
+      - Twig šablony
+      - DevOps
+    startDate: 2019-09
+    keywords:
+      - PHP
+      - Symfony
+      - MapBox
+      - Docker
+      - Docker Swarm
+
+  - name: Colpirio
+    type: aplikace
+    entity: Gauss Algoritmic s.r.o.
+    startDate: 2018-08
+    endDate: 2019-08
+    description:
+    highlights:
+      - Kompletní přepis a vývoj JS trackeru (TypeScript)
+      - Vývoj aplikace pro konfiguraci a prezentaci výsledků (PHP, Angular)
+    roles:
+      - PHP a Typescript vývojář
+    keywords:
+      - TypeScript
+      - PHP, Symfony
+      - Angular 4
+
+  - name: CK Livingstone
+    type: aplikace
+    entity: Cognito.cz s.r.o.
+    url: https://www.livingstone.cz
+    description: CK Livingstone je cestovní kancelář.
+    startDate: 2017-09
+    endDate: 2018-08
+    roles:
+      - PHP vývojář
+      - Nastavení vývojového prostředí (docker, Symfony, Webpack)
+      - DevOps (docker swarm)
+
+  - name: CentralNews
+    type: aplikace
+    entity: IT STUDIO s.r.o.
+    url: https://www.itstudio.cz/centralnews
+    startDate: 2008-01
+    endDate: 2010-06
+    description: Systém pro tvorbu a rozesílání emailových kampaní
+    highlights:
+      - Návrh multiuživatelského systému
+      - PHP, Symfony backend
+      - Návrh šablon e-mailů (VMF)
+    roles:
+      - PHP vývojář
+    keywords:
+      - PHP 7
+      - Symfony framework
+
+  - name: MP toner
+    type: aplikace
+    entity: Web71
+    url: https://www.mptoner.cz
+    description: E-schop náplní do tiskáren
+    highlights:
+      - Naprogramování kompletního e-shopu
+      - Propojení na úrovni databáze s účetním systémem Pohoda
+    startDate: 2005-06
+    endDate: 2007-12
+    roles:
+      - PHP a JS vývojář
+    keywords:
+      - PHP 5
+      - JavaScript
+
+#awards:
+#  - title:
+#    date:
+#    awarder:
+#    summary:
+
+publications:
+  - name: Symfony po krůčkách – HTTP fundamentalista
+    publisher: Zdroják
+    releaseDate: 2016-04-12
+    url: https://www.zdrojak.cz/clanky/symfony-po-kruckach-http-fundamentalista/
+    summary: Přestavení Symfony komponenty HttpFoundation
+
+  - name: Symfony po krůčkách – DomCrawler a CssSelector
+    publisher: Zdroják
+    releaseDate: 2016-03-23
+    url: https://www.zdrojak.cz/clanky/symfony-po-kruckach-domcrawler-cssselector/
+    summary: Přestavení Symfony komponent DomCrawler a CssSelector
+
+languages:
+  - language: Čeština
+    fluency: Rodný jazyk
+
+  - language: Angličtina
+    fluency: B1
+
+interests:
+  - name: Rodina
+    keywords:
+      - Domácí škola
+      - Minihospodářství
+      - Kutilství
+  - name: Programování
+    keywords:
+      - open source
+  - name: Umění
+    keywords:
+      - Tvorba publikací
+      - Hudba, klavír
