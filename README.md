@@ -16,10 +16,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 days ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (4 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
