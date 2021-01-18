@@ -1,18 +1,14 @@
-### Hi there 👋
+# Hi, I'm Martin Hasoň 👋
 
-I'm @hason, an Open Source enthusiast and the Chief Technology Lead at @cognitocz, where I do most of my development.
+I'm a Husband, Father, Open Source enthusiast and the Software Architect at [Survio](https://www.survio.com).
 
-<!--
-**hason/hason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: martinhason](https://img.shields.io/badge/-Martin%20Hasoň-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinhason/)](https://www.linkedin.com/in/martinhason/)
+![GitHub followers](https://img.shields.io/github/followers/hason?label=Follow&style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Hason's github stats](https://github-readme-stats.vercel.app/api?username=hason&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&hide_title=true)
+
+### Top Langs
+![Hason's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hason&layout=compact&theme=dracula&hide_border=true&hide_title=true)
+
