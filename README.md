@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (4 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (4 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 days ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (5 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (1 week ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.36.0](https://github.com/jakzal/toolbox/releases/tag/v1.36.0), 3 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.36.0](https://github.com/jakzal/toolbox/releases/tag/v1.36.0), 4 days ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.1](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.1), 2 weeks ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 month ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.1](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.1), 1 month ago) - PostgreSQL enhancements for Doctrine2. Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
