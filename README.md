@@ -27,8 +27,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.38.0](https://github.com/jakzal/toolbox/releases/tag/v1.38.0), today) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.2), 1 day ago) - The new (and simple) admin generator for Symfony applications.
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.37.0](https://github.com/jakzal/toolbox/releases/tag/v1.37.0), 3 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 month ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.1](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.1), 1 month ago) - PostgreSQL enhancements for Doctrine2. Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.39](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.39), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
