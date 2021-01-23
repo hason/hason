@@ -14,24 +14,24 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (today)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
 - [webuni/twig-components](https://github.com/webuni/twig-components) - Define reusable components in Twig as in Vue/React style via Twital (4 days ago)
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) - Helps to discover and install tools (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), today) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.38.0](https://github.com/jakzal/toolbox/releases/tag/v1.38.0), 1 day ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.2), 2 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 month ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.1](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.1), 1 month ago) - PostgreSQL enhancements for Doctrine2. Provides support for advanced data types (json, josnb, arrays), text search, array operators and jsonb specific functions.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.39](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.39), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.3.0](https://github.com/goetas/twital/releases/tag/v1.3.0), 3 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [NightlyCommit/twing](https://github.com/NightlyCommit/twing) ([v1.0.0](https://github.com/NightlyCommit/twing/releases/tag/v1.0.0), 2 years ago) - First-class Twig engine for Node.js
