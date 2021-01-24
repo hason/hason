@@ -27,11 +27,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), today) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 1 day ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.38.0](https://github.com/jakzal/toolbox/releases/tag/v1.38.0), 2 days ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.2), 3 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.1](https://github.com/symfony/symfony/releases/tag/v5.2.1), 1 month ago) - The Symfony PHP framework
-- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.1](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.1), 1 month ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.39](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.39), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [NightlyCommit/twing](https://github.com/NightlyCommit/twing) ([v1.0.0](https://github.com/NightlyCommit/twing/releases/tag/v1.0.0), 2 years ago) - First-class Twig engine for Node.js
