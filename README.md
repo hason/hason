@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (4 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
