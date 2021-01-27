@@ -14,14 +14,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (4 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [webuni/twig-components](https://github.com/webuni/twig-components) - Define reusable components in Twig as in Vue/React style via Twital (1 week ago)
 
