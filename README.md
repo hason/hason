@@ -14,23 +14,23 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
-- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (5 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
+- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (6 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 1 day ago) - The Symfony PHP framework
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.39.0](https://github.com/jakzal/toolbox/releases/tag/v1.39.0), 2 days ago) - Helps to discover and install tools
-- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 4 days ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 5 days ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.2](https://github.com/symfony/symfony/releases/tag/v5.2.2), 2 days ago) - The Symfony PHP framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.39.0](https://github.com/jakzal/toolbox/releases/tag/v1.39.0), 3 days ago) - Helps to discover and install tools
+- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 5 days ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 6 days ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.2), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.39](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.39), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
