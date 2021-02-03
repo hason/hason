@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/adminer](https://github.com/minidocks/adminer) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/git](https://github.com/minidocks/git) -  (2 days ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (2 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
-- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (1 week ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
