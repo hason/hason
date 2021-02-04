@@ -14,8 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/erlang](https://github.com/minidocks/erlang) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (3 days ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (3 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
@@ -23,7 +24,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
