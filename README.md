@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/erlang](https://github.com/minidocks/erlang) -  (1 day ago)
+- [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/erlang](https://github.com/minidocks/erlang) -  (1 day ago)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (2 days ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (4 days ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (4 days ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (4 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
