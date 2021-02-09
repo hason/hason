@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (today)
-- [webuni/php-single-file-components](https://github.com/webuni/php-single-file-components) - Single file components for php template engines (2 days ago)
-- [minidocks/erlang](https://github.com/minidocks/erlang) -  (4 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
-- [minidocks/adminer](https://github.com/minidocks/adminer) -  (5 days ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (1 week ago)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (1 day ago)
+- [webuni/php-single-file-components](https://github.com/webuni/php-single-file-components) - Single file components for php template engines (3 days ago)
+- [minidocks/erlang](https://github.com/minidocks/erlang) -  (5 days ago)
+- [minidocks/adminer](https://github.com/minidocks/adminer) -  (6 days ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 week ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 5 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 6 days ago) - The Symfony PHP framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.39.1](https://github.com/jakzal/toolbox/releases/tag/v1.39.1), 1 week ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.3](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.3), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 2 weeks ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
