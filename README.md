@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (1 day ago)
 - [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (2 days ago)
 - [webuni/php-single-file-components](https://github.com/webuni/php-single-file-components) - Single file components for php template engines (4 days ago)
