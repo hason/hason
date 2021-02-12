@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (today)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 day ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (2 days ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (3 days ago)
