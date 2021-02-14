@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 day ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (3 days ago)
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (4 days ago)
-- [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (5 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (2 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (4 days ago)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (5 days ago)
+- [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (6 days ago)
 - [webuni/php-single-file-components](https://github.com/webuni/php-single-file-components) - Single file components for php template engines (1 week ago)
 - [minidocks/erlang](https://github.com/minidocks/erlang) -  (1 week ago)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
@@ -27,10 +27,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.5](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.5), today) - The new (and simple) admin generator for Symfony applications.
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.40.0](https://github.com/jakzal/toolbox/releases/tag/v1.40.0), 1 day ago) - Helps to discover and install tools
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.5](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.5), 1 day ago) - The new (and simple) admin generator for Symfony applications.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.40.0](https://github.com/jakzal/toolbox/releases/tag/v1.40.0), 2 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 1 week ago) - The Symfony PHP framework
-- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 2 weeks ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
+- [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 weeks ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 3 weeks ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.39](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.39), 3 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 3 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
