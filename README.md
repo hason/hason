@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.5](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.5), 2 days ago) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.6](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.6), today) - The new (and simple) admin generator for Symfony applications.
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.40.0](https://github.com/jakzal/toolbox/releases/tag/v1.40.0), 3 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 1 week ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 weeks ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
