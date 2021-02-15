@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (3 days ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (4 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (6 days ago)
 - [webuni/imagine-exec](https://github.com/webuni/imagine-exec) - Provides imagemagick an vips integration for Imagine via executable binaries. (1 week ago)
 - [webuni/php-single-file-components](https://github.com/webuni/php-single-file-components) - Single file components for php template engines (1 week ago)
-- [minidocks/erlang](https://github.com/minidocks/erlang) -  (1 week ago)
-- [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
