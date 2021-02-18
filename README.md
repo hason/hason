@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (today)
-- [minidocks/git](https://github.com/minidocks/git) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (5 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (6 days ago)
+- [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (1 day ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (6 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.40.1](https://github.com/jakzal/toolbox/releases/tag/v1.40.1), today) - Helps to discover and install tools
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 1 day ago) - The new (and simple) admin generator for Symfony applications.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.40.1](https://github.com/jakzal/toolbox/releases/tag/v1.40.1), 1 day ago) - Helps to discover and install tools
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 2 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 2 weeks ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 weeks ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 3 weeks ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
