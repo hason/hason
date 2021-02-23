@@ -27,8 +27,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), today) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 4 days ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.41.0](https://github.com/jakzal/toolbox/releases/tag/v1.41.0), 5 days ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 2 weeks ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 1 month ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
