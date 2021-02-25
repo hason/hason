@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 days ago)
-- [Codeception/c3](https://github.com/Codeception/c3) - Remote CodeCoverage for Codeception. Part of Codeception testing framework. (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
+- [Codeception/c3](https://github.com/Codeception/c3) - Remote CodeCoverage for Codeception. Part of Codeception testing framework. (1 week ago)
 - [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (1 week ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 week ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), 1 day ago) - Helps to discover and install tools
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 5 days ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), 2 days ago) - Helps to discover and install tools
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 6 days ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 3 weeks ago) - The Symfony PHP framework
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 1 month ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
