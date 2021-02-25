@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
 - [Codeception/c3](https://github.com/Codeception/c3) - Remote CodeCoverage for Codeception. Part of Codeception testing framework. (1 week ago)
 - [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (1 week ago)
