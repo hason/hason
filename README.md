@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/adminer](https://github.com/minidocks/adminer) -  (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (4 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 - [Codeception/c3](https://github.com/Codeception/c3) - Remote CodeCoverage for Codeception. Part of Codeception testing framework. (1 week ago)
 - [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (1 week ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (1 week ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.40](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.40), 1 day ago) - A lightweight book theme built off of the pydata sphinx theme
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), 5 days ago) - Helps to discover and install tools
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.40](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.40), 2 days ago) - A lightweight book theme built off of the pydata sphinx theme
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), 6 days ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 1 week ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 3 weeks ago) - The Symfony PHP framework
