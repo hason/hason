@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 day ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (3 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 - [Codeception/c3](https://github.com/Codeception/c3) - Remote CodeCoverage for Codeception. Part of Codeception testing framework. (2 weeks ago)
-- [webuni/doctrine-extensions](https://github.com/webuni/doctrine-extensions) - Doctrine extensions (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
