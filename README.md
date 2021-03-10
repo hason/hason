@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (5 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (6 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.41](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.41), today) - A lightweight book theme built off of the pydata sphinx theme
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.4](https://github.com/symfony/symfony/releases/tag/v5.2.4), 5 days ago) - The Symfony PHP framework
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.41](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.41), 1 day ago) - A lightweight book theme built off of the pydata sphinx theme
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.4](https://github.com/symfony/symfony/releases/tag/v5.2.4), 6 days ago) - The Symfony PHP framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.42.0](https://github.com/jakzal/toolbox/releases/tag/v1.42.0), 2 weeks ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 weeks ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 3 weeks ago) - The new (and simple) admin generator for Symfony applications.
