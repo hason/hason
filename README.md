@@ -14,6 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 days ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
@@ -23,7 +24,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
