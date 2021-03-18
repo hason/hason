@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (1 day ago)
+- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 days ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (1 week ago)
@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) -  (2 weeks ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
