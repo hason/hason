@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), today) - The Symfony PHP framework
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.0](https://github.com/jakzal/toolbox/releases/tag/v1.45.0), 6 days ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 1 day ago) - The Symfony PHP framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.0](https://github.com/jakzal/toolbox/releases/tag/v1.45.0), 1 week ago) - Helps to discover and install tools
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 2 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.7](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.7), 1 month ago) - The new (and simple) admin generator for Symfony applications.
