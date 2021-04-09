@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 days ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 days ago)
 - [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 week ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
-- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (2 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
