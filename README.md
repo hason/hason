@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (2 days ago)
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (today)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (3 days ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 days ago)
