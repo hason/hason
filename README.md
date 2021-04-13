@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (today)
+- [minidocks/maildev](https://github.com/minidocks/maildev) -  (today)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (1 day ago)
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (4 days ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (4 days ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (5 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (2 weeks ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 weeks ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
