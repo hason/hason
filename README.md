@@ -20,14 +20,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (1 day ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (4 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (2 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (5 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 4 days ago) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 5 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 weeks ago) - The Symfony PHP framework
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.0](https://github.com/jakzal/toolbox/releases/tag/v1.45.0), 3 weeks ago) - Helps to discover and install tools
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
