@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 day ago)
-- [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 day ago)
-- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (1 day ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
+- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
+- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (3 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (6 days ago)
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (6 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
+- [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 day ago)
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
