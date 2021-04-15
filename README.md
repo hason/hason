@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (today)
-- [minidocks/maildev](https://github.com/minidocks/maildev) -  (today)
-- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (2 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (5 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 day ago)
+- [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 day ago)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (3 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (6 days ago)
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder (6 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), today) - Helps to discover and install tools
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 5 days ago) - The new (and simple) admin generator for Symfony applications.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), 1 day ago) - Helps to discover and install tools
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 6 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 weeks ago) - The Symfony PHP framework
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
