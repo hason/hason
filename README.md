@@ -17,18 +17,18 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (today)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
-- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (today)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 day ago)
-- [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 day ago)
-- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 day ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
+- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (1 day ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 days ago)
+- [minidocks/maildev](https://github.com/minidocks/maildev) -  (2 days ago)
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), 1 day ago) - Helps to discover and install tools
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 6 days ago) - The new (and simple) admin generator for Symfony applications.
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), 2 days ago) - Helps to discover and install tools
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 weeks ago) - The Symfony PHP framework
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
