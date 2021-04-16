@@ -15,15 +15,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (today)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
 - [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (1 day ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 days ago)
-- [minidocks/maildev](https://github.com/minidocks/maildev) -  (2 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
+- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (1 day ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
 - [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (2 days ago)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
