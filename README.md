@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (today)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
-- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (1 day ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
-- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (1 day ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
-- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (2 days ago)
-- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (1 day ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 day ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 days ago)
+- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (2 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
+- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (2 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (3 days ago)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), 2 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.1](https://github.com/jakzal/toolbox/releases/tag/v1.45.1), 3 days ago) - Helps to discover and install tools
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 weeks ago) - The Symfony PHP framework
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
