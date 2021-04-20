@@ -14,24 +14,24 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (2 days ago)
-- [minidocks/lftp](https://github.com/minidocks/lftp) -  (2 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (3 days ago)
-- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (3 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 days ago)
-- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (4 days ago)
-- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (4 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 days ago)
+- [minidocks/lftp](https://github.com/minidocks/lftp) -  (3 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (4 days ago)
+- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (4 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
+- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (5 days ago)
+- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (5 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), today) - Helps to discover and install tools
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 1 day ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 2 days ago) - The Symfony PHP framework
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 2 months ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 2 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 5 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
