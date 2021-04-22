@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/lftp](https://github.com/minidocks/lftp) -  (4 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (4 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
-- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (5 days ago)
-- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (6 days ago)
-- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (6 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/lftp](https://github.com/minidocks/lftp) -  (5 days ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (5 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (6 days ago)
+- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (6 days ago)
+- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (1 week ago)
+- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 2 days ago) - Helps to discover and install tools
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 3 days ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.8](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.8), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.0.42](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.0.42), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
