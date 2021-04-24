@@ -14,14 +14,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (3 days ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 week ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (1 week ago)
-- [minidocks/wkhtmltopdf](https://github.com/minidocks/wkhtmltopdf) -  (1 week ago)
 - [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 
