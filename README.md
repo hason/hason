@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 week ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
@@ -27,9 +27,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 1 day ago) - The new (and simple) admin generator for Symfony applications.
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 3 days ago) - A lightweight book theme built off of the pydata sphinx theme
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 6 days ago) - Helps to discover and install tools
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 2 days ago) - The new (and simple) admin generator for Symfony applications.
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 4 days ago) - A lightweight book theme built off of the pydata sphinx theme
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 1 week ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 months ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
