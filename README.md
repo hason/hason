@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 week ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (1 week ago)
-- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (1 week ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
+- [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (2 weeks ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 4 days ago) - The new (and simple) admin generator for Symfony applications.
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 6 days ago) - A lightweight book theme built off of the pydata sphinx theme
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 5 days ago) - The new (and simple) admin generator for Symfony applications.
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 1 week ago) - A lightweight book theme built off of the pydata sphinx theme
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 1 week ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
