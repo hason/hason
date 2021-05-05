@@ -14,7 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
@@ -23,7 +24,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (2 weeks ago)
 - [rajasegar/html_over_the_wire](https://github.com/rajasegar/html_over_the_wire) - A site to compare different solutions for HTML Over the Wire (2 weeks ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
