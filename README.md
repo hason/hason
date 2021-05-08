@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
-- [minidocks/lftp](https://github.com/minidocks/lftp) -  (2 weeks ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (2 weeks ago)
+- [minidocks/lftp](https://github.com/minidocks/lftp) -  (3 weeks ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
 - [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (3 weeks ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 6 days ago) - The Symfony PHP framework
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 1 week ago) - The new (and simple) admin generator for Symfony applications.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 1 week ago) - The Symfony PHP framework
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.2.9](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.2.9), 2 weeks ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 2 weeks ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
