@@ -27,11 +27,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.3](https://github.com/Codeception/c3/releases/tag/2.6.3), today) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.0), today) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 2 weeks ago) - Helps to discover and install tools
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.2](https://github.com/Codeception/c3/releases/tag/2.6.2), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 months ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 3 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 6 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
