@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 days ago)
+- [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
@@ -27,8 +27,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.3](https://github.com/Codeception/c3/releases/tag/2.6.3), today) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.0), today) - The new (and simple) admin generator for Symfony applications.
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.3](https://github.com/Codeception/c3/releases/tag/2.6.3), 1 day ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.0), 1 day ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 2 weeks ago) - Helps to discover and install tools
