@@ -22,12 +22,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/abc](https://github.com/minidocks/abc) -  (3 weeks ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (4 weeks ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (4 weeks ago)
-- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (4 weeks ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (4 weeks ago)
+- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (1 month ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 4 days ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.3](https://github.com/Codeception/c3/releases/tag/2.6.3), 1 week ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.0), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 3 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
