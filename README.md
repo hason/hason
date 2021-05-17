@@ -14,15 +14,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (today)
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (3 weeks ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 month ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 month ago)
-- [minidocks/unpaper](https://github.com/minidocks/unpaper) -  (1 month ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
