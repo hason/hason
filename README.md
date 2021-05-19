@@ -14,24 +14,24 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (1 day ago)
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 days ago)
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (3 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 weeks ago)
 - [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 month ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 month ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), today) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 6 days ago) - The Symfony PHP framework
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 day ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 1 week ago) - The Symfony PHP framework
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.0](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.0), 1 week ago) - The new (and simple) admin generator for Symfony applications.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 3 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 4 weeks ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 1 month ago) - Helps to discover and install tools
 - [martin-georgiev/postgresql-for-doctrine](https://github.com/martin-georgiev/postgresql-for-doctrine) ([v1.5.2](https://github.com/martin-georgiev/postgresql-for-doctrine/releases/tag/v1.5.2), 3 months ago) - PostgreSQL enhancements for Doctrine. Provides support for advanced data types (json, jssnb, arrays), text search, array operators and jsonb specific functions.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 3 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 6 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
