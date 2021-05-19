@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.9](https://github.com/symfony/symfony/releases/tag/v5.2.9), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), today) - The Symfony PHP framework
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.1](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.1), today) - The new (and simple) admin generator for Symfony applications.
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 day ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 3 weeks ago) - A lightweight book theme built off of the pydata sphinx theme
