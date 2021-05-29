@@ -14,7 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 days ago)
@@ -22,8 +24,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (3 weeks ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
-- [minidocks/lftp](https://github.com/minidocks/lftp) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
