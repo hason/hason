@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
-- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 weeks ago)
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (3 weeks ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.2), 4 days ago) - The new (and simple) admin generator for Symfony applications.
+- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) ([v3.3.2](https://github.com/EasyCorp/EasyAdminBundle/releases/tag/v3.3.2), 5 days ago) - The new (and simple) admin generator for Symfony applications.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), 1 week ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 week ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
