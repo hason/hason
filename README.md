@@ -15,15 +15,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 day ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (4 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 weeks ago)
 - [webuni/commonmark-twig-renderer](https://github.com/webuni/commonmark-twig-renderer) -  (3 weeks ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
