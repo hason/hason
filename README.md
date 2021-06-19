@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/caddy](https://github.com/minidocks/caddy) -  (today)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (today)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/caddy](https://github.com/minidocks/caddy) -  (1 day ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 day ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 2 days ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 1 month ago) - A lightweight book theme built off of the pydata sphinx theme
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.4](https://github.com/jakzal/toolbox/releases/tag/v1.45.4), 2 months ago) - Helps to discover and install tools
