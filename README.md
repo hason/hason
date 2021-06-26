@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 days ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
