@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
 - [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (2 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 days ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 week ago)
