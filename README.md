@@ -14,15 +14,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 days ago)
 - [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (6 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/openssh](https://github.com/minidocks/openssh) -  (1 week ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
