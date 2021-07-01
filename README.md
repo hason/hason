@@ -21,8 +21,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (today)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (today)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
 - [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
 
 ### 🔭 Latest releases I've contributed to
