@@ -14,23 +14,23 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/rtail](https://github.com/minidocks/rtail) -  (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (today)
-- [minidocks/nginx](https://github.com/minidocks/nginx) -  (today)
-- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (today)
-- [minidocks/python](https://github.com/minidocks/python) -  (today)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/rtail](https://github.com/minidocks/rtail) -  (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 day ago)
+- [minidocks/nginx](https://github.com/minidocks/nginx) -  (1 day ago)
+- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 day ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 1 day ago) - The Symfony PHP framework
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.5](https://github.com/jakzal/toolbox/releases/tag/v1.45.5), 6 days ago) - Helps to discover and install tools
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 days ago) - The Symfony PHP framework
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.45.5](https://github.com/jakzal/toolbox/releases/tag/v1.45.5), 1 week ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 7 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 8 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 1 year ago) - Jitsi plugin for Mattermost :electric_plug:
