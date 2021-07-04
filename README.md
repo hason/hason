@@ -14,15 +14,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/rtail](https://github.com/minidocks/rtail) -  (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
+- [minidocks/java](https://github.com/minidocks/java) -  (3 days ago)
 - [minidocks/postfix](https://github.com/minidocks/postfix) -  (3 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
 - [minidocks/nginx](https://github.com/minidocks/nginx) -  (3 days ago)
 - [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (3 days ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 days ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
