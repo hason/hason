@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/java](https://github.com/minidocks/java) -  (6 days ago)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (6 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
-- [minidocks/nginx](https://github.com/minidocks/nginx) -  (6 days ago)
-- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (6 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (6 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (6 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (6 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/java](https://github.com/minidocks/java) -  (1 week ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 week ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [minidocks/nginx](https://github.com/minidocks/nginx) -  (1 week ago)
+- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (1 week ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
