@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 1 day ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 2 days ago) - Helps to discover and install tools
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 1 week ago) - The Symfony PHP framework
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
