@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/java](https://github.com/minidocks/java) -  (1 week ago)
+- [minidocks/hugo](https://github.com/minidocks/hugo) -  (1 week ago)
 - [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 week ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/nginx](https://github.com/minidocks/nginx) -  (1 week ago)
