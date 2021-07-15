@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/hugo](https://github.com/minidocks/hugo) -  (1 week ago)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
-- [minidocks/nginx](https://github.com/minidocks/nginx) -  (1 week ago)
-- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (1 week ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/hugo](https://github.com/minidocks/hugo) -  (2 weeks ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (2 weeks ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
+- [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
+- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (2 weeks ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 6 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 1 week ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
