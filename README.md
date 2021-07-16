@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
 - [minidocks/hugo](https://github.com/minidocks/hugo) -  (2 weeks ago)
 - [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
 - [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (2 weeks ago)
