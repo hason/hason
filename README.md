@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
 - [minidocks/hugo](https://github.com/minidocks/hugo) -  (2 weeks ago)
-- [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
 - [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
+- [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 1 week ago) - Helps to discover and install tools
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 1 month ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.0](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.0), 2 months ago) - A lightweight book theme built off of the pydata sphinx theme
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 8 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
