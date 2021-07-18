@@ -17,11 +17,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 days ago)
-- [minidocks/hugo](https://github.com/minidocks/hugo) -  (2 weeks ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (2 weeks ago)
 - [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
-- [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 weeks ago)
+- [minidocks/nginx](https://github.com/minidocks/nginx) -  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 
