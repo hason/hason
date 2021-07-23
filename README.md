@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [sphinx-contrib/gherkin](https://github.com/sphinx-contrib/gherkin) - Sphinx parser for Gherkin BDD (2 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 days ago)
-- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (3 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [sphinx-contrib/gherkin](https://github.com/sphinx-contrib/gherkin) - Sphinx parser for Gherkin BDD (3 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 days ago)
+- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 weeks ago)
@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.1](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.1), 2 days ago) - A clean book theme for scientific explanations and documentation with Sphinx
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.1](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.1), 3 days ago) - A clean book theme for scientific explanations and documentation with Sphinx
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 2 weeks ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 6 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
