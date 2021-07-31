@@ -14,22 +14,22 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (6 days ago)
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 week ago)
 - [sphinx-contrib/gherkin](https://github.com/sphinx-contrib/gherkin) - Sphinx parser for Gherkin BDD (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (4 weeks ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (4 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.1](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.1), 1 week ago) - A clean book theme for scientific explanations and documentation with Sphinx
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 3 weeks ago) - Helps to discover and install tools
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 3 weeks ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 4 weeks ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 2 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 6 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 8 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
