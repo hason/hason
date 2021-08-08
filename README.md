@@ -20,7 +20,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (2 weeks ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
