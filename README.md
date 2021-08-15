@@ -23,7 +23,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
