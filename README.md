@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.2](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.2), 2 weeks ago) - A clean book theme for scientific explanations and documentation with Sphinx
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.3), today) - A clean book theme for scientific explanations and documentation with Sphinx
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.0](https://github.com/jakzal/toolbox/releases/tag/v1.46.0), 1 month ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 3 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
