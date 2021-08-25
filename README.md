@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 month ago)
 - [sphinx-contrib/gherkin](https://github.com/sphinx-contrib/gherkin) - Sphinx parser for Gherkin BDD (1 month ago)
