@@ -27,10 +27,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.1](https://github.com/jakzal/toolbox/releases/tag/v1.46.1), 3 days ago) - Helps to discover and install tools
-- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.3), 5 days ago) - A clean book theme for scientific explanations and documentation with Sphinx
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.46.1](https://github.com/jakzal/toolbox/releases/tag/v1.46.1), 4 days ago) - Helps to discover and install tools
+- [executablebooks/sphinx-book-theme](https://github.com/executablebooks/sphinx-book-theme) ([v0.1.3](https://github.com/executablebooks/sphinx-book-theme/releases/tag/v0.1.3), 6 days ago) - A clean book theme for scientific explanations and documentation with Sphinx
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 3 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 9 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 10 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 1 year ago) - Jitsi plugin for Mattermost :electric_plug:
