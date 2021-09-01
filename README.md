@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/git](https://github.com/minidocks/git) -  (3 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 month ago)
 - [sphinx-contrib/gherkin](https://github.com/sphinx-contrib/gherkin) - Sphinx parser for Gherkin BDD (1 month ago)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 month ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 months ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
