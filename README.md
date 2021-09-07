@@ -14,11 +14,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (5 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (5 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (5 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (6 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 days ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (3 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 weeks ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 month ago)
@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.0](https://github.com/jakzal/toolbox/releases/tag/v1.47.0), today) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.0](https://github.com/jakzal/toolbox/releases/tag/v1.47.0), 1 day ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 2 months ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 3 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
