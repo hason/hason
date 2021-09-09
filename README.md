@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.0](https://github.com/jakzal/toolbox/releases/tag/v1.47.0), 2 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.0](https://github.com/jakzal/toolbox/releases/tag/v1.47.0), 3 days ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.14.0](https://github.com/yuzutech/kroki/releases/tag/v0.14.0), 2 months ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 3 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
