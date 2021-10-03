@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 weeks ago)
 - [minidocks/svgo](https://github.com/minidocks/svgo) -  (3 weeks ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
