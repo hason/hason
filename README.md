@@ -19,16 +19,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 weeks ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 weeks ago)
-- [minidocks/git](https://github.com/minidocks/git) -  (2 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
+- [minidocks/git](https://github.com/minidocks/git) -  (3 weeks ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), today) - Creates diagrams from textual descriptions!
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.1](https://github.com/jakzal/toolbox/releases/tag/v1.47.1), 1 week ago) - Helps to discover and install tools
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 1 day ago) - Creates diagrams from textual descriptions!
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.1](https://github.com/jakzal/toolbox/releases/tag/v1.47.1), 2 weeks ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 4 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 8 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 11 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
