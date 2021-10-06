@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (today)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
 - [minidocks/chromium](https://github.com/minidocks/chromium) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (today)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 weeks ago)
 - [minidocks/git](https://github.com/minidocks/git) -  (3 weeks ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
