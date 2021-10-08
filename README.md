@@ -14,11 +14,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 day ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
-- [minidocks/chromium](https://github.com/minidocks/chromium) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 day ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (2 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
+- [minidocks/chromium](https://github.com/minidocks/chromium) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 weeks ago)
@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 2 days ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 3 days ago) - Creates diagrams from textual descriptions!
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.47.1](https://github.com/jakzal/toolbox/releases/tag/v1.47.1), 2 weeks ago) - Helps to discover and install tools
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 4 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 8 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
