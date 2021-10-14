@@ -14,11 +14,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/allure](https://github.com/minidocks/allure) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 day ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 day ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
+- [minidocks/allure](https://github.com/minidocks/allure) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (2 days ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 days ago)
 - [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/chromium](https://github.com/minidocks/chromium) -  (1 week ago)
