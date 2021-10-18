@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (4 days ago)
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (4 days ago)
 - [minidocks/allure](https://github.com/minidocks/allure) -  (5 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (6 days ago)
 - [minidocks/glibc](https://github.com/minidocks/glibc) -  (6 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 week ago)
 - [minidocks/chromium](https://github.com/minidocks/chromium) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
