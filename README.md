@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
 - [minidocks/allure](https://github.com/minidocks/allure) -  (1 week ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
 - [minidocks/glibc](https://github.com/minidocks/glibc) -  (2 weeks ago)
 - [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (2 weeks ago)
-- [minidocks/chromium](https://github.com/minidocks/chromium) -  (2 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
