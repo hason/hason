@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (5 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (6 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
 - [minidocks/allure](https://github.com/minidocks/allure) -  (2 weeks ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.48.0](https://github.com/jakzal/toolbox/releases/tag/v1.48.0), 1 week ago) - Helps to discover and install tools
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 3 weeks ago) - Creates diagrams from textual descriptions!
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.48.0](https://github.com/jakzal/toolbox/releases/tag/v1.48.0), 2 weeks ago) - Helps to discover and install tools
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 4 weeks ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 5 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 9 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
