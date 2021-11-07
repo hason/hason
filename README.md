@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/infracost](https://github.com/minidocks/infracost) -  (3 days ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (3 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (4 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
+- [minidocks/infracost](https://github.com/minidocks/infracost) -  (4 days ago)
 - [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 weeks ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
