@@ -14,14 +14,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 days ago)
-- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
-- [minidocks/infracost](https://github.com/minidocks/infracost) -  (6 days ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (6 days ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 week ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 days ago)
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/infracost](https://github.com/minidocks/infracost) -  (1 week ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 week ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (2 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
 
