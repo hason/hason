@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (today)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
+- [minidocks/allure](https://github.com/minidocks/allure) -  (today)
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki) - Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki. (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
-- [minidocks/infracost](https://github.com/minidocks/infracost) -  (1 week ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 week ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (2 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
+- [minidocks/infracost](https://github.com/minidocks/infracost) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.49.0](https://github.com/jakzal/toolbox/releases/tag/v1.49.0), 4 days ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.49.0](https://github.com/jakzal/toolbox/releases/tag/v1.49.0), 5 days ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 9 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
