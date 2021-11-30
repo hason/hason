@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (3 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (3 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (3 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (3 days ago)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (3 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (4 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
+- [minidocks/rsync](https://github.com/minidocks/rsync) -  (4 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (4 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (4 days ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 2 days ago) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 3 days ago) - Main repository for the Sphinx documentation builder
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.49.0](https://github.com/jakzal/toolbox/releases/tag/v1.49.0), 2 weeks ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
