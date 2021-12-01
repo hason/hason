@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (5 days ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (5 days ago)
+- [minidocks/rsync](https://github.com/minidocks/rsync) -  (5 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
