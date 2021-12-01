@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (4 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (4 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (4 days ago)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (4 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
+- [minidocks/rsync](https://github.com/minidocks/rsync) -  (5 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.50.0](https://github.com/jakzal/toolbox/releases/tag/v1.50.0), today) - Helps to discover and install tools
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 3 days ago) - Main repository for the Sphinx documentation builder
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.50.0](https://github.com/jakzal/toolbox/releases/tag/v1.50.0), 1 day ago) - Helps to discover and install tools
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 4 days ago) - Main repository for the Sphinx documentation builder
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
