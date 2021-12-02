@@ -14,21 +14,21 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (5 days ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (5 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (5 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (5 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (6 days ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (6 days ago)
+- [minidocks/rsync](https://github.com/minidocks/rsync) -  (6 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.50.0](https://github.com/jakzal/toolbox/releases/tag/v1.50.0), 1 day ago) - Helps to discover and install tools
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 4 days ago) - Main repository for the Sphinx documentation builder
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.50.0](https://github.com/jakzal/toolbox/releases/tag/v1.50.0), 2 days ago) - Helps to discover and install tools
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 5 days ago) - Main repository for the Sphinx documentation builder
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
