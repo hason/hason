@@ -19,15 +19,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 week ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (1 week ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (2 weeks ago)
+- [minidocks/rsync](https://github.com/minidocks/rsync) -  (2 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.51.0](https://github.com/jakzal/toolbox/releases/tag/v1.51.0), 1 day ago) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.51.0](https://github.com/jakzal/toolbox/releases/tag/v1.51.0), 2 days ago) - Helps to discover and install tools
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 1 week ago) - Main repository for the Sphinx documentation builder
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 2 months ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
