@@ -16,13 +16,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (2 weeks ago)
-- [minidocks/rsync](https://github.com/minidocks/rsync) -  (2 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (2 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
