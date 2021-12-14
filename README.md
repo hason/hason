@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/test](https://github.com/minidocks/test) -  (today)
+- [minidocks/test](https://github.com/minidocks/test) -  (1 day ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
@@ -27,10 +27,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), today) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), 1 day ago) - Helps to discover and install tools
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 2 weeks ago) - Main repository for the Sphinx documentation builder
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.15.1](https://github.com/yuzutech/kroki/releases/tag/v0.15.1), 2 months ago) - Creates diagrams from textual descriptions!
-- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 6 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
+- [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 7 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 1 year ago) - Jitsi plugin for Mattermost :electric_plug:
