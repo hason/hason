@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/test](https://github.com/minidocks/test) -  (4 days ago)
+- [minidocks/test](https://github.com/minidocks/test) -  (5 days ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 weeks ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (3 weeks ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
 - [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (3 weeks ago)
 - [minidocks/chromium](https://github.com/minidocks/chromium) -  (3 weeks ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
@@ -27,9 +27,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), today) - Creates diagrams from textual descriptions!
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), 4 days ago) - Helps to discover and install tools
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 2 weeks ago) - Main repository for the Sphinx documentation builder
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 day ago) - Creates diagrams from textual descriptions!
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), 5 days ago) - Helps to discover and install tools
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 3 weeks ago) - Main repository for the Sphinx documentation builder
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 7 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
