@@ -14,23 +14,23 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
-- [minidocks/python](https://github.com/minidocks/python) -  (today)
-- [minidocks/node](https://github.com/minidocks/node) -  (today)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 day ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 day ago) - Creates diagrams from textual descriptions!
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), 5 days ago) - Helps to discover and install tools
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 2 days ago) - Creates diagrams from textual descriptions!
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.52.0](https://github.com/jakzal/toolbox/releases/tag/v1.52.0), 6 days ago) - Helps to discover and install tools
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 3 weeks ago) - Main repository for the Sphinx documentation builder
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 7 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 11 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 1 year ago) - Jitsi plugin for Mattermost :electric_plug:
