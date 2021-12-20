@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 days ago)
-- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (today)
+- [minidocks/rtail](https://github.com/minidocks/rtail) -  (2 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 days ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 days ago)
