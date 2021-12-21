@@ -15,9 +15,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (1 day ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (1 day ago)
-- [minidocks/rtail](https://github.com/minidocks/rtail) -  (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
+- [minidocks/borgbackup](https://github.com/minidocks/borgbackup) -  (3 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 days ago)
@@ -27,10 +27,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), today) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.54.0](https://github.com/jakzal/toolbox/releases/tag/v1.54.0), 1 day ago) - Helps to discover and install tools
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 4 days ago) - Creates diagrams from textual descriptions!
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 3 weeks ago) - Main repository for the Sphinx documentation builder
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 7 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.4.0](https://github.com/goetas/twital/releases/tag/v1.4.0), 11 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 1 year ago) - Jitsi plugin for Mattermost :electric_plug:
