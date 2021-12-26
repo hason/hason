@@ -17,13 +17,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (6 days ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (6 days ago)
-- [minidocks/borgbackup](https://github.com/minidocks/borgbackup) -  (1 week ago)
+- [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
