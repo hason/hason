@@ -17,17 +17,17 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (1 week ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (1 week ago)
-- [minidocks/adminer](https://github.com/minidocks/adminer) -  (1 week ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
+- [minidocks/adminer](https://github.com/minidocks/adminer) -  (2 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.54.2](https://github.com/jakzal/toolbox/releases/tag/v1.54.2), today) - Helps to discover and install tools
+- [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.54.2](https://github.com/jakzal/toolbox/releases/tag/v1.54.2), 1 day ago) - Helps to discover and install tools
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 1 week ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 2 weeks ago) - Creates diagrams from textual descriptions!
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.3.1](https://github.com/sphinx-doc/sphinx/releases/tag/v4.3.1), 1 month ago) - Main repository for the Sphinx documentation builder
