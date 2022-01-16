@@ -19,7 +19,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (3 weeks ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (3 weeks ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 weeks ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 weeks ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 weeks ago)
 - [minidocks/postfix](https://github.com/minidocks/postfix) -  (4 weeks ago)
