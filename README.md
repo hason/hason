@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (3 weeks ago)
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (3 weeks ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 weeks ago)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (4 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (4 weeks ago)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (4 weeks ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 month ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 month ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), today) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), 1 day ago) - Main repository for the Sphinx documentation builder
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.54.2](https://github.com/jakzal/toolbox/releases/tag/v1.54.2), 2 weeks ago) - Helps to discover and install tools
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 3 weeks ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 month ago) - Creates diagrams from textual descriptions!
