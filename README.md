@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
 - [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (4 weeks ago)
 - [minidocks/postgres](https://github.com/minidocks/postgres) -  (4 weeks ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
@@ -27,9 +27,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), 1 day ago) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), 2 days ago) - Main repository for the Sphinx documentation builder
 - [jakzal/toolbox](https://github.com/jakzal/toolbox) ([v1.54.2](https://github.com/jakzal/toolbox/releases/tag/v1.54.2), 2 weeks ago) - Helps to discover and install tools
-- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 3 weeks ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 4 weeks ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 month ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 8 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
