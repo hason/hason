@@ -22,7 +22,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 month ago)
-- [minidocks/postfix](https://github.com/minidocks/postfix) -  (1 month ago)
+- [minidocks/graphviz](https://github.com/minidocks/graphviz) -  (1 month ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
