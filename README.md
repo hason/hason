@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (today)
+- [minidocks/erlang](https://github.com/minidocks/erlang) -  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (today)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (today)
 - [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
-- [goetas/twital](https://github.com/goetas/twital) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS. (1 month ago)
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (1 month ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 month ago)
-- [minidocks/graphviz](https://github.com/minidocks/graphviz) -  (1 month ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
