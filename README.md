@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (2 days ago)
-- [minidocks/erlang](https://github.com/minidocks/erlang) -  (2 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 days ago)
-- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (2 days ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (2 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (2 days ago)
-- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (5 days ago)
+- [minidocks/postgres](https://github.com/minidocks/postgres) -  (3 days ago)
+- [minidocks/erlang](https://github.com/minidocks/erlang) -  (3 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (3 days ago)
+- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (3 days ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (3 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 days ago)
+- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
