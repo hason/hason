@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/postgres](https://github.com/minidocks/postgres) -  (6 days ago)
-- [minidocks/erlang](https://github.com/minidocks/erlang) -  (6 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (6 days ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (6 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
-- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (1 week ago)
+- [minidocks/graphviz](https://github.com/minidocks/graphviz) -  (today)
+- [minidocks/infracost](https://github.com/minidocks/infracost) -  (today)
+- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (today)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 
 ### 🔭 Latest releases I've contributed to
 
