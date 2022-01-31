@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/graphviz](https://github.com/minidocks/graphviz) -  (today)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
-- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
 - [minidocks/infracost](https://github.com/minidocks/infracost) -  (today)
+- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/borgbackup](https://github.com/minidocks/borgbackup) -  (today)
+- [minidocks/caddy](https://github.com/minidocks/caddy) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (today)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
 
 ### 🔭 Latest releases I've contributed to
 
