@@ -15,11 +15,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/graphviz](https://github.com/minidocks/graphviz) -  (today)
-- [minidocks/infracost](https://github.com/minidocks/infracost) -  (today)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
 - [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
+- [minidocks/infracost](https://github.com/minidocks/infracost) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (today)
