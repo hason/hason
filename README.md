@@ -14,15 +14,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/infracost](https://github.com/minidocks/infracost) -  (today)
-- [minidocks/elasticsearch](https://github.com/minidocks/elasticsearch) -  (today)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (today)
+- [minidocks/hugo](https://github.com/minidocks/hugo) -  (today)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/borgbackup](https://github.com/minidocks/borgbackup) -  (today)
-- [minidocks/caddy](https://github.com/minidocks/caddy) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/python](https://github.com/minidocks/python) -  (today)
 
 ### 🔭 Latest releases I've contributed to
