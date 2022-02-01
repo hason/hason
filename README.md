@@ -16,9 +16,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/hugo](https://github.com/minidocks/hugo) -  (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
