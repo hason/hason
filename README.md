@@ -14,11 +14,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/perl](https://github.com/minidocks/perl) -  (5 days ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (5 days ago)
+- [minidocks/perl](https://github.com/minidocks/perl) -  (5 days ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (5 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (5 days ago)
