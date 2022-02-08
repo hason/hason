@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
-- [minidocks/rabbitmq](https://github.com/minidocks/rabbitmq) -  (6 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 days ago)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (6 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (6 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 days ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
+- [minidocks/rabbitmq](https://github.com/minidocks/rabbitmq) -  (1 week ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 week ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
