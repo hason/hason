@@ -16,20 +16,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
-- [minidocks/redis](https://github.com/minidocks/redis) -  (1 week ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 week ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (2 weeks ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
+- [minidocks/redis](https://github.com/minidocks/redis) -  (2 weeks ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (2 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), 4 weeks ago) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) ([v4.4.0](https://github.com/sphinx-doc/sphinx/releases/tag/v4.4.0), 1 month ago) - Main repository for the Sphinx documentation builder
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 1 month ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 month ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 2 months ago) - Creates diagrams from textual descriptions!
 - [Codeception/c3](https://github.com/Codeception/c3) ([2.6.4](https://github.com/Codeception/c3/releases/tag/2.6.4), 9 months ago) - Remote CodeCoverage for Codeception. Part of Codeception testing framework.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 2 years ago) - Jitsi plugin for Mattermost :electric_plug:
