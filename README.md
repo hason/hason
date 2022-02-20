@@ -16,14 +16,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 weeks ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (2 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
-- [minidocks/redis](https://github.com/minidocks/redis) -  (2 weeks ago)
+- [minidocks/postfix](https://github.com/minidocks/postfix) -  (2 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 weeks ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (2 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 weeks ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
