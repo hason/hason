@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (3 weeks ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (3 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
