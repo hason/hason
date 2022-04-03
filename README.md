@@ -15,8 +15,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 day ago)
 - [alpinelinux/aports](https://github.com/alpinelinux/aports) - [MIRROR] Alpine packages build scripts (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 month ago)
