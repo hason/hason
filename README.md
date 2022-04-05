@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/curl](https://github.com/minidocks/curl) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (2 days ago)
+- [minidocks/curl](https://github.com/minidocks/curl) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (3 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
