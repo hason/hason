@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
