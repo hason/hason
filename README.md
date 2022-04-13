@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
 - [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (1 week ago)
 - [minidocks/curl](https://github.com/minidocks/curl) -  (1 week ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.0](https://github.com/yuzutech/kroki/releases/tag/v0.17.0), 6 days ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.0](https://github.com/yuzutech/kroki/releases/tag/v0.17.0), 1 week ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 3 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 1 year ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 2 years ago) - Jitsi plugin for Mattermost :electric_plug:
