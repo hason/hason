@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
-- [minidocks/perl](https://github.com/minidocks/perl) -  (3 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (3 days ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 days ago)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (3 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
+- [minidocks/perl](https://github.com/minidocks/perl) -  (4 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (4 days ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (4 days ago)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (4 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.0](https://github.com/yuzutech/kroki/releases/tag/v0.17.0), 4 weeks ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.0](https://github.com/yuzutech/kroki/releases/tag/v0.17.0), 1 month ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 4 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 years ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 2 years ago) - Jitsi plugin for Mattermost :electric_plug:
