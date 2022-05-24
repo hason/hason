@@ -14,20 +14,20 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 day ago)
-- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 day ago)
-- [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 day ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 day ago)
-- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (1 day ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 days ago)
+- [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (2 days ago)
+- [minidocks/maildev](https://github.com/minidocks/maildev) -  (2 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 days ago)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (2 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.1](https://github.com/yuzutech/kroki/releases/tag/v0.17.1), 6 days ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.1](https://github.com/yuzutech/kroki/releases/tag/v0.17.1), 1 week ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 years ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 2 years ago) - Jitsi plugin for Mattermost :electric_plug:
