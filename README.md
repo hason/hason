@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/mailhog](https://github.com/minidocks/mailhog) -  (1 week ago)
 - [minidocks/maildev](https://github.com/minidocks/maildev) -  (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
-- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/mailcatcher](https://github.com/minidocks/mailcatcher) -  (1 week ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
