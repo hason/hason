@@ -27,7 +27,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 1 day ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 2 days ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.2.0](https://github.com/webuni/front-matter/releases/tag/1.2.0), 2 years ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [mattermost/mattermost-plugin-jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) ([v2.0.0](https://github.com/mattermost/mattermost-plugin-jitsi/releases/tag/v2.0.0), 2 years ago) - Jitsi plugin for Mattermost :electric_plug:
