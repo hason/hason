@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (5 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
-- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (5 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
 - [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (5 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (5 days ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
