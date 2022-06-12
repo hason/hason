@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/node](https://github.com/minidocks/node) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (today)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
-- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (5 days ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (5 days ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (5 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 day ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
+- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (6 days ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (6 days ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (6 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (6 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
