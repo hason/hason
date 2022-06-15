@@ -14,18 +14,18 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 days ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (3 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (4 days ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (4 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 days ago)
 - [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (1 week ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 week ago)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 1 week ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 2 weeks ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 5 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
