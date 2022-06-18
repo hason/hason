@@ -14,14 +14,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/matomo](https://github.com/minidocks/matomo) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (5 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (6 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (6 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 week ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
 - [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
 
