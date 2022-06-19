@@ -20,8 +20,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 week ago)
 - [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
 
