@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 day ago)
-- [minidocks/matomo](https://github.com/minidocks/matomo) -  (4 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (2 days ago)
+- [minidocks/matomo](https://github.com/minidocks/matomo) -  (5 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
@@ -28,5 +28,5 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 🔭 Latest releases I've contributed to
 
 - [flarum/framework](https://github.com/flarum/framework) ([v1.3.1](https://github.com/flarum/framework/releases/tag/v1.3.1), 2 weeks ago) - Simple forum software for building great communities.
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 2 weeks ago) - Creates diagrams from textual descriptions!
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 3 weeks ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 6 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
