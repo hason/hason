@@ -15,14 +15,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 week ago)
-- [minidocks/matomo](https://github.com/minidocks/matomo) -  (2 weeks ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 weeks ago)
+- [minidocks/matomo](https://github.com/minidocks/matomo) -  (2 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 weeks ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
