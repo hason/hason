@@ -23,7 +23,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
