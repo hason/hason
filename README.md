@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (4 weeks ago)
 - [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
@@ -27,6 +27,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 5 days ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 6 days ago) - Simple forum software for building great communities.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 1 month ago) - Creates diagrams from textual descriptions!
-- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 6 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
