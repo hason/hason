@@ -18,15 +18,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 month ago)
 - [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 month ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
 - [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 month ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
+- [minidocks/mariadb](https://github.com/minidocks/mariadb) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 1 week ago) - Simple forum software for building great communities.
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.17.2](https://github.com/yuzutech/kroki/releases/tag/v0.17.2), 1 month ago) - Creates diagrams from textual descriptions!
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
