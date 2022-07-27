@@ -27,5 +27,5 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 1 week ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 2 weeks ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
