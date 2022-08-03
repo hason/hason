@@ -14,18 +14,18 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (5 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (5 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/allure](https://github.com/minidocks/allure) -  (5 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (5 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 days ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
+- [minidocks/allure](https://github.com/minidocks/allure) -  (6 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (6 days ago)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 month ago)
 - [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 2 weeks ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.4.0](https://github.com/flarum/framework/releases/tag/v1.4.0), 3 weeks ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 7 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
