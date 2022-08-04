@@ -14,14 +14,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (6 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/allure](https://github.com/minidocks/allure) -  (6 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (6 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/allure](https://github.com/minidocks/allure) -  (1 week ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
+- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 month ago)
 - [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 month ago)
 
