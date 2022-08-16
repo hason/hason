@@ -23,7 +23,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
 - [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (2 weeks ago)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. (1 month ago)
-- [minidocks/matomo](https://github.com/minidocks/matomo) -  (1 month ago)
+- [minidocks/matomo](https://github.com/minidocks/matomo) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
