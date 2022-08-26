@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
-- [minidocks/sphinx-doc](https://github.com/minidocks/sphinx-doc) - 🐋 📚 The most featured Docker image for Sphinx, a documentation tool written in Python.  (1 week ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
-- [minidocks/allure](https://github.com/minidocks/allure) -  (4 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 weeks ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (4 weeks ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (today)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (today)
 
 ### 🔭 Latest releases I've contributed to
 
