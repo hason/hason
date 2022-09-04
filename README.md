@@ -21,9 +21,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 week ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
-- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (1 week ago)
+- [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
