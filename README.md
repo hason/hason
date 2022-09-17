@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 weeks ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (3 weeks ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (3 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
