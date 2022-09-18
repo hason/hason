@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 day ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (3 weeks ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
