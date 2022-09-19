@@ -14,18 +14,18 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (today)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 day ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 day ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 day ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 day ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (2 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (2 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 days ago)
 - [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 5 days ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 6 days ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 9 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
