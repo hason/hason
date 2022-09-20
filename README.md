@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (2 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 days ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
