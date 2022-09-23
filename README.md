@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 days ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (2 days ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (4 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (5 days ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 days ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 days ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (5 days ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (5 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (6 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
