@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (6 days ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 week ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 week ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
@@ -27,5 +27,5 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 1 week ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 2 weeks ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 9 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
