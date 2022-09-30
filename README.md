@@ -16,13 +16,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 week ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 week ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
