@@ -22,8 +22,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (3 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 weeks ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (3 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
