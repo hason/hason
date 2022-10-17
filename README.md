@@ -22,11 +22,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (4 weeks ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 weeks ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 2 weeks ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 1 month ago) - Simple forum software for building great communities.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 9 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
