@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (4 weeks ago)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (4 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
+- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 month ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 month ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 month ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
@@ -27,6 +27,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 4 weeks ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 1 month ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
 - [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 1 month ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
