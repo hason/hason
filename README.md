@@ -27,6 +27,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
+- [flarum/framework](https://github.com/flarum/framework) ([v1.6.0](https://github.com/flarum/framework/releases/tag/v1.6.0), today) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 1 month ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
-- [flarum/framework](https://github.com/flarum/framework) ([v1.5.0](https://github.com/flarum/framework/releases/tag/v1.5.0), 2 months ago) - Simple forum software for building great communities.
 - [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 10 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
