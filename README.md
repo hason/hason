@@ -16,8 +16,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (1 week ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 month ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (1 month ago)
