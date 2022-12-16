@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 days ago)
-- [minidocks/zint](https://github.com/minidocks/zint) -  (3 weeks ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (4 days ago)
+- [minidocks/zint](https://github.com/minidocks/zint) -  (4 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (2 months ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 months ago)
@@ -27,6 +27,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.6.2](https://github.com/flarum/framework/releases/tag/v1.6.2), 3 weeks ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.6.2](https://github.com/flarum/framework/releases/tag/v1.6.2), 4 weeks ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 11 months ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
+- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 1 year ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
