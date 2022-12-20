@@ -29,4 +29,3 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [flarum/framework](https://github.com/flarum/framework) ([v1.6.2](https://github.com/flarum/framework/releases/tag/v1.6.2), 1 month ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
-- [goetas/twital](https://github.com/goetas/twital) ([v1.5.0](https://github.com/goetas/twital/releases/tag/v1.5.0), 1 year ago) - Twital is a &#34;plugin&#34; for Twig that adds some sugar syntax, which makes its templates similar to PHPTal or VueJS.
