@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (today)
+- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (today)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (3 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (3 weeks ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
+- [minidocks/svgo](https://github.com/minidocks/svgo) -  (3 weeks ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (3 weeks ago)
-- [minidocks/zint](https://github.com/minidocks/zint) -  (1 month ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 months ago)
-- [minidocks/php-tools](https://github.com/minidocks/php-tools) -  (3 months ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (3 months ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 months ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (3 months ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
