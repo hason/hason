@@ -18,14 +18,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (1 week ago)
 - [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 week ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (4 weeks ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (4 weeks ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (4 weeks ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 weeks ago)
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (4 weeks ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 month ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
+- [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 month ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.6.3](https://github.com/flarum/framework/releases/tag/v1.6.3), 5 days ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.6.3](https://github.com/flarum/framework/releases/tag/v1.6.3), 6 days ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 3 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
