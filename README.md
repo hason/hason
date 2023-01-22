@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (1 week ago)
-- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 week ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 weeks ago)
+- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (2 weeks ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
 - [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 month ago)
