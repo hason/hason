@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 week ago)
 - [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (4 weeks ago)
-- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (4 weeks ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (4 weeks ago)
+- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (4 weeks ago)
+- [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 month ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 - [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 month ago)
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
