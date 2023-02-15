@@ -21,9 +21,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (1 month ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
 - [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 month ago)
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (1 month ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (1 month ago)
+- [minidocks/svgo](https://github.com/minidocks/svgo) -  (2 months ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (2 months ago)
+- [minidocks/poppler](https://github.com/minidocks/poppler) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
