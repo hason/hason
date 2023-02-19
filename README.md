@@ -15,9 +15,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (1 month ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 month ago)
 - [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 month ago)
