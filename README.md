@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
-- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 months ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
 - [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (2 months ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
+- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 months ago)
 - [minidocks/svgo](https://github.com/minidocks/svgo) -  (2 months ago)
 - [minidocks/poppler](https://github.com/minidocks/poppler) -  (2 months ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
