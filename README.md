@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (2 weeks ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 months ago)
 - [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
@@ -27,5 +27,5 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.7.0](https://github.com/flarum/framework/releases/tag/v1.7.0), 1 day ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.7.0](https://github.com/flarum/framework/releases/tag/v1.7.0), 2 days ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 5 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
