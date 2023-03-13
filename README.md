@@ -15,17 +15,17 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/abc](https://github.com/minidocks/abc) -  (today)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
-- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (2 months ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
-- [minidocks/ghostscript](https://github.com/minidocks/ghostscript) -  (2 months ago)
-- [minidocks/svgo](https://github.com/minidocks/svgo) -  (2 months ago)
-- [minidocks/poppler](https://github.com/minidocks/poppler) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.7.1](https://github.com/flarum/framework/releases/tag/v1.7.1), today) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.7.1](https://github.com/flarum/framework/releases/tag/v1.7.1), 1 day ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 5 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
