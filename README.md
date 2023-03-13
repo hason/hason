@@ -15,12 +15,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/abc](https://github.com/minidocks/abc) -  (today)
-- [minidocks/lua](https://github.com/minidocks/lua) -  (today)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
