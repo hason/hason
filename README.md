@@ -14,18 +14,18 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (5 days ago)
-- [minidocks/lua](https://github.com/minidocks/lua) -  (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (5 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (5 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (6 days ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (6 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (4 weeks ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (4 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.7.1](https://github.com/flarum/framework/releases/tag/v1.7.1), 6 days ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.7.1](https://github.com/flarum/framework/releases/tag/v1.7.1), 1 week ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 5 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
