@@ -14,13 +14,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/abc](https://github.com/minidocks/abc) -  (6 days ago)
-- [minidocks/lua](https://github.com/minidocks/lua) -  (6 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (6 days ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (6 days ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (1 week ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (1 week ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (4 weeks ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (4 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
