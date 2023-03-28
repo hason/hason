@@ -23,7 +23,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 month ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
