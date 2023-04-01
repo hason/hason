@@ -14,8 +14,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (1 day ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 - [minidocks/lua](https://github.com/minidocks/lua) -  (2 weeks ago)
