@@ -16,12 +16,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (1 week ago)
-- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (4 weeks ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (4 weeks ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 weeks ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (4 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
-- [minidocks/lua](https://github.com/minidocks/lua) -  (4 weeks ago)
+- [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (1 month ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (1 month ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
 
