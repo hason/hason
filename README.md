@@ -16,14 +16,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (today)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 week ago)
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (3 weeks ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (1 month ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 - [minidocks/pdftk](https://github.com/minidocks/pdftk) - Docker image of PdfTk (1 month ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
-- [minidocks/lua](https://github.com/minidocks/lua) -  (1 month ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
