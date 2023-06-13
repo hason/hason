@@ -27,5 +27,5 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [flarum/framework](https://github.com/flarum/framework) ([v1.8.1](https://github.com/flarum/framework/releases/tag/v1.8.1), 2 weeks ago) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) ([v1.8.1](https://github.com/flarum/framework/releases/tag/v1.8.1), 3 weeks ago) - Simple forum software for building great communities.
 - [webuni/front-matter](https://github.com/webuni/front-matter) ([1.4.0](https://github.com/webuni/front-matter/releases/tag/1.4.0), 8 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
