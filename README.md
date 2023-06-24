@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
 - [flarum-lang/czech](https://github.com/flarum-lang/czech) - Czech language pack for Flarum  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 weeks ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 weeks ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (4 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (1 month ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (3 months ago)
