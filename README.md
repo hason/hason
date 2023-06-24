@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/lua](https://github.com/minidocks/lua) -  (today)
+- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
+- [minidocks/lua](https://github.com/minidocks/lua) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (today)
-- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (1 day ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (1 day ago)
 - [flarum-lang/czech](https://github.com/flarum-lang/czech) - Czech language pack for Flarum  (2 weeks ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 weeks ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (4 weeks ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
