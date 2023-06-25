@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (today)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (today)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (today)
 - [minidocks/node](https://github.com/minidocks/node) -  (today)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/weasyprint](https://github.com/minidocks/weasyprint) -  (1 day ago)
 - [minidocks/lua](https://github.com/minidocks/lua) -  (1 day ago)
