@@ -21,8 +21,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 month ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 month ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 month ago)
-- [minidocks/zint](https://github.com/minidocks/zint) -  (1 month ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
+- [minidocks/zint](https://github.com/minidocks/zint) -  (1 month ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
