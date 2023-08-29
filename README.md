@@ -14,13 +14,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (1 week ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (2 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 months ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 months ago)
+- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (2 months ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 months ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (2 months ago)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (2 months ago)
