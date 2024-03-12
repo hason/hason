@@ -15,15 +15,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/git](https://github.com/minidocks/git) -  (today)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (6 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (2 months ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 months ago)
-- [minidocks/librsvg](https://github.com/minidocks/librsvg) -  (2 months ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 months ago)
+- [minidocks/htmldiff](https://github.com/minidocks/htmldiff) -  (today)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/python](https://github.com/minidocks/python) -  (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
+- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (today)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (today)
 
 ### 🔭 Latest releases I've contributed to
 
