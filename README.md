@@ -20,8 +20,8 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
 - [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (5 days ago)
 
