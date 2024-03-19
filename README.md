@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (3 days ago)
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (5 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (5 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (5 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (5 days ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (5 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
-- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (5 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/dbcli](https://github.com/minidocks/dbcli) -  (4 days ago)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (6 days ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (6 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (6 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/tesseract](https://github.com/minidocks/tesseract) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
