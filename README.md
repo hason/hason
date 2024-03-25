@@ -18,12 +18,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (today)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (today)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (today)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
+- [minidocks/redis](https://github.com/minidocks/redis) -  (1 day ago)
 - [minidocks/lua](https://github.com/minidocks/lua) -  (1 day ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (1 day ago)
-- [minidocks/pyinstaller](https://github.com/minidocks/pyinstaller) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
