@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (5 days ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (5 days ago)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (5 days ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 week ago)
 - [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 week ago)
 - [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 week ago)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (1 week ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 week ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 week ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (1 week ago)
