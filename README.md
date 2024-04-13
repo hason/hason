@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (today)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 week ago)
 - [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (2 weeks ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (2 weeks ago)
 - [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 weeks ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 weeks ago)
-- [minidocks/zint](https://github.com/minidocks/zint) -  (2 weeks ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 weeks ago)
-- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (2 weeks ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 weeks ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 weeks ago)
+- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (2 weeks ago)
+- [minidocks/zint](https://github.com/minidocks/zint) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
