@@ -19,11 +19,11 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 week ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
-- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (3 weeks ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (4 weeks ago)
-- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (4 weeks ago)
-- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (4 weeks ago)
-- [minidocks/abc](https://github.com/minidocks/abc) -  (4 weeks ago)
+- [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (4 weeks ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (1 month ago)
+- [minidocks/img2pdf](https://github.com/minidocks/img2pdf) -  (1 month ago)
+- [minidocks/ocrmypdf](https://github.com/minidocks/ocrmypdf) -  (1 month ago)
+- [minidocks/abc](https://github.com/minidocks/abc) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
