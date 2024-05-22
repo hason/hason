@@ -14,7 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (5 days ago)
+- [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (6 days ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 month ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
@@ -27,4 +27,4 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 2 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 3 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
