@@ -15,15 +15,15 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (1 week ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 month ago)
-- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 month ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 month ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 month ago)
+- [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (1 month ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (1 month ago)
 - [minidocks/libreoffice](https://github.com/minidocks/libreoffice) -  (2 months ago)
 - [minidocks/zint](https://github.com/minidocks/zint) -  (2 months ago)
-- [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 months ago)
 - [minidocks/abc](https://github.com/minidocks/abc) -  (2 months ago)
+- [minidocks/terraform](https://github.com/minidocks/terraform) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
