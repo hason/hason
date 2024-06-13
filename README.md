@@ -20,7 +20,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/python](https://github.com/minidocks/python) -  (2 weeks ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (2 weeks ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
-- [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (3 weeks ago)
+- [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (4 weeks ago)
 - [minidocks/texlive](https://github.com/minidocks/texlive) - Mini TeX Live docker image (2 months ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (2 months ago)
