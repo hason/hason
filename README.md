@@ -14,12 +14,12 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 days ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (6 days ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/curl](https://github.com/minidocks/curl) -  (6 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (1 week ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (1 week ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/curl](https://github.com/minidocks/curl) -  (1 week ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 months ago)
 - [minidocks/glibc](https://github.com/minidocks/glibc) -  (2 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 months ago)
