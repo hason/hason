@@ -21,9 +21,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
 - [minidocks/curl](https://github.com/minidocks/curl) -  (3 weeks ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 months ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 months ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (3 months ago)
+- [minidocks/glibc](https://github.com/minidocks/glibc) -  (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
