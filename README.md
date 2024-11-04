@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
+- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 weeks ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 months ago)
+- [minidocks/curl](https://github.com/minidocks/curl) -  (3 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 months ago)
-- [minidocks/curl](https://github.com/minidocks/curl) -  (3 months ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 months ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (5 months ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (5 months ago)
-- [minidocks/glibc](https://github.com/minidocks/glibc) -  (5 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
