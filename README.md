@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 days ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (6 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (6 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 weeks ago)
 - [minidocks/curl](https://github.com/minidocks/curl) -  (3 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
