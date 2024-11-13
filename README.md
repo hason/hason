@@ -17,7 +17,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 weeks ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 months ago)
