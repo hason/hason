@@ -14,9 +14,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
@@ -27,4 +27,4 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 8 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 9 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
