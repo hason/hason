@@ -19,9 +19,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 weeks ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (3 weeks ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 month ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
-- [minidocks/curl](https://github.com/minidocks/curl) -  (3 months ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (3 months ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (4 months ago)
+- [minidocks/curl](https://github.com/minidocks/curl) -  (4 months ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 months ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (6 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 months ago)
 
