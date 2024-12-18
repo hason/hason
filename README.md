@@ -14,17 +14,17 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 day ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (3 days ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (3 days ago)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (3 days ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 days ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 days ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (3 weeks ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (2 days ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (4 days ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (4 days ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (4 days ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (4 days ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 days ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (4 weeks ago)
 - [minidocks/curl](https://github.com/minidocks/curl) -  (4 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (4 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 9 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.0.0](https://github.com/webuni/front-matter/releases/tag/2.0.0), 10 months ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
