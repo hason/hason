@@ -15,14 +15,14 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 ### 👷 Check out what I'm currently working on
 
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 month ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (2 months ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 months ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (2 months ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 months ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (2 months ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (2 months ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (6 months ago)
+- [minidocks/ansible](https://github.com/minidocks/ansible) -  (6 months ago)
 - [minidocks/curl](https://github.com/minidocks/curl) -  (6 months ago)
 
 ### 🔭 Latest releases I've contributed to
