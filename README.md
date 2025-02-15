@@ -27,4 +27,4 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 🔭 Latest releases I've contributed to
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.1.0](https://github.com/webuni/front-matter/releases/tag/2.1.0), 6 days ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
+- [webuni/front-matter](https://github.com/webuni/front-matter) ([2.1.0](https://github.com/webuni/front-matter/releases/tag/2.1.0), 1 week ago) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP.
