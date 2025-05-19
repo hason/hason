@@ -21,7 +21,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (5 months ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (5 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 months ago)
-- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (5 months ago)
+- [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (6 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (9 months ago)
 - [minidocks/ansible](https://github.com/minidocks/ansible) -  (9 months ago)
 
