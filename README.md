@@ -14,6 +14,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
 - [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 weeks ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (4 months ago)
@@ -23,7 +24,6 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (5 months ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (6 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (9 months ago)
-- [minidocks/ansible](https://github.com/minidocks/ansible) -  (9 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
