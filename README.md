@@ -16,9 +16,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (2 months ago)
 - [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (2 months ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 months ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (2 months ago)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (6 months ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (3 months ago)
+- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (3 months ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (7 months ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (7 months ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (7 months ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (7 months ago)
