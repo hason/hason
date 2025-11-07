@@ -22,7 +22,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (10 months ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (10 months ago)
 - [minidocks/node](https://github.com/minidocks/node) -  (10 months ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (10 months ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (11 months ago)
 - [minidocks/context](https://github.com/minidocks/context) - Mini ConTeXt docker image (11 months ago)
 
 ### 🔭 Latest releases I've contributed to
