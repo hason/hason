@@ -14,14 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
+- [minidocks/gimp](https://github.com/minidocks/gimp) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (2 weeks ago)
-- [DivinumOfficium/divinum-officium](https://github.com/DivinumOfficium/divinum-officium) - The Divinum Officium Project: Traditional Roman Missal and Breviary Texts (7 months ago)
-- [webuni/shell-task-runner](https://github.com/webuni/shell-task-runner) - Simple, lightweight, self-documented task runner for Shell. (7 months ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (7 months ago)
-- [minidocks/mkdocs](https://github.com/minidocks/mkdocs) -  (7 months ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (today)
+- [minidocks/openssh](https://github.com/minidocks/openssh) -  (today)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
+- [minidocks/node](https://github.com/minidocks/node) -  (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (today)
 
 ### 🔭 Latest releases I've contributed to
 
