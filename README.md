@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/gimp](https://github.com/minidocks/gimp) -  (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (today)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (today)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (today)
-- [minidocks/openssh](https://github.com/minidocks/openssh) -  (today)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (today)
-- [minidocks/node](https://github.com/minidocks/node) -  (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (today)
+- [minidocks/gimp](https://github.com/minidocks/gimp) -  (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 day ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 day ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 day ago)
+- [minidocks/openssh](https://github.com/minidocks/openssh) -  (1 day ago)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 day ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
