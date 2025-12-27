@@ -16,13 +16,13 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (today)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/gimp](https://github.com/minidocks/gimp) -  (1 week ago)
+- [minidocks/ffmpeg](https://github.com/minidocks/ffmpeg) -  (1 week ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 week ago)
 - [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 week ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 week ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (1 week ago)
 - [minidocks/openssh](https://github.com/minidocks/openssh) -  (1 week ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 week ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (1 week ago)
+- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 week ago)
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
