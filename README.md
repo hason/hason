@@ -14,16 +14,16 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (today)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (today)
-- [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (today)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 day ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 day ago)
+- [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (1 day ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 month ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (1 month ago)
-- [minidocks/openssh](https://github.com/minidocks/openssh) -  (1 month ago)
-- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (1 month ago)
-- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (1 month ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (2 months ago)
+- [minidocks/openssh](https://github.com/minidocks/openssh) -  (2 months ago)
+- [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (2 months ago)
+- [minidocks/imagemagick](https://github.com/minidocks/imagemagick) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
