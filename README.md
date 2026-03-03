@@ -14,10 +14,10 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 
 ### 👷 Check out what I'm currently working on
 
-- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (today)
-- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (1 week ago)
-- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (1 week ago)
-- [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (1 week ago)
+- [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (1 day ago)
+- [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 weeks ago)
+- [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 weeks ago)
+- [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (2 weeks ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (1 month ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (1 month ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (1 month ago)
