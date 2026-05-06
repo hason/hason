@@ -20,7 +20,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (2 months ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (3 months ago)
-- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (3 months ago)
+- [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 months ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (4 months ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (4 months ago)
 - [minidocks/openssh](https://github.com/minidocks/openssh) -  (4 months ago)
