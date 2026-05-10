@@ -23,7 +23,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 months ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (4 months ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (4 months ago)
-- [minidocks/openssh](https://github.com/minidocks/openssh) -  (4 months ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
