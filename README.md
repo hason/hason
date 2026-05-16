@@ -18,7 +18,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/php](https://github.com/minidocks/php) - Docker image for PHP (2 months ago)
 - [minidocks/images](https://github.com/minidocks/images) - The smallest possible images for tools, applications and programming languages. (2 months ago)
 - [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (2 months ago)
-- [minidocks/flarum](https://github.com/minidocks/flarum) -  (3 months ago)
+- [minidocks/flarum](https://github.com/minidocks/flarum) -  (4 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (4 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (4 months ago)
 - [minidocks/ruby](https://github.com/minidocks/ruby) -  (4 months ago)
