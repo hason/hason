@@ -21,9 +21,9 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (6 months ago)
 - [minidocks/python](https://github.com/minidocks/python) -  (6 months ago)
 - [minidocks/base](https://github.com/minidocks/base) - A minimal Alpine base image modified for Docker-friendliness (6 months ago)
-- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (6 months ago)
-- [minidocks/node](https://github.com/minidocks/node) -  (6 months ago)
-- [minidocks/ruby](https://github.com/minidocks/ruby) -  (6 months ago)
+- [minidocks/pandoc](https://github.com/minidocks/pandoc) -  (7 months ago)
+- [minidocks/node](https://github.com/minidocks/node) -  (7 months ago)
+- [minidocks/ruby](https://github.com/minidocks/ruby) -  (7 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
