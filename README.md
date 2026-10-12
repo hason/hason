@@ -22,7 +22,7 @@ I'm a 👨‍👩‍👧‍👦 Husband and Father, 🧑‍💻 Open Source enth
 - [minidocks/frankenphp](https://github.com/minidocks/frankenphp) -  (4 months ago)
 - [webuni/front-matter](https://github.com/webuni/front-matter) - The most featured front matter (yaml, json, neon, toml) parser and dumper for PHP. (7 months ago)
 - [minidocks/flarum](https://github.com/minidocks/flarum) -  (8 months ago)
-- [minidocks/python](https://github.com/minidocks/python) -  (8 months ago)
+- [minidocks/python](https://github.com/minidocks/python) -  (9 months ago)
 - [minidocks/inkscape](https://github.com/minidocks/inkscape) -  (9 months ago)
 
 ### 🔭 Latest releases I've contributed to
